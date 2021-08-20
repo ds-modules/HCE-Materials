@@ -12,6 +12,8 @@ Funded by the Mozilla Responsible Computer Science Challenge grant, this curricu
 
 Previously, Homeworks 5 and 6 in the course's [Spring 2020](http://www.ds100.org/sp20/syllabus/) offering introduced students to linear regression by building a housing price prediction model. These homeworks utilized a dataset of housing characteristics and values in Ames, Iowa. The HCE team, however, felt that using a similar dataset from the Cook County Assessor's Office - which assesses property values to determine property taxes in Chicago - would encourage a more explicit examination of data science's embeddedness in social and historical contexts. With this dataset, the two edited Jupyter notebooks in this package grapple with concepts of bias, expertise, fairness, and transparency to resituate the role of technology in equitable government practices.
 
+A slide deck presentation that further outlines the learning objectives and goals of this curriculum package can be found [here](https://docs.google.com/presentation/d/1oO8yATyGsaC89DblgNRvXBbA3rdcAqflp67jJ5b0oR0/edit?usp=sharing).
+
 ## Acknowledgements
 Many thanks to:
 * Mateo Montoya and Owen Hart for their foundational work on this package
